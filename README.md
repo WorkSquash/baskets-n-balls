@@ -1,3 +1,0 @@
-# baskets-n-balls
-
-IKT Projektmunka projekt....
